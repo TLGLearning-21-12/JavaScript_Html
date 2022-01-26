@@ -1,1 +1,3 @@
-# JavaScript_Html
+# Post code snippets and resourced!!
+
+# Happy Coding!!
